@@ -1,15 +1,13 @@
 # Add your variables here
-def adder(num1,num2)
-  first_number = num1
-  second_number = num2
+  first_number = 22
+  second_number = 33
   sum = first_number + second_number
   puts sum
   sum
-end
-def minus(num1,num2)
-  first_number = num1
-  second_number = num2
+
+
+  first_number = 20
+  second_number = 10
   difference = first_number - second_number
   puts difference
   difference
-end
