@@ -3,5 +3,6 @@
   second_number = 33
   sum = first_number + second_number
   difference = first_number - second_number
+  product = first_number * second_number
   #puts difference
   #difference
